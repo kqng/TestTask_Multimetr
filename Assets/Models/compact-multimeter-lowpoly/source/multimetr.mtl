@@ -1,0 +1,34 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl TESTER
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns tester textures/tester_roughness.jpg
+map_refl tester textures/tester_metallic.jpg
+map_Bump -bm 1.000000 tester textures/tester_normal.png
+
+newmtl whire_black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl whires
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.006110
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
